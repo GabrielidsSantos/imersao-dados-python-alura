@@ -17,7 +17,7 @@ Em andamento
 - Análises mais aprofundadas
 - Criação de dashboard interativo
 
-  Tecnologias utilizadas
+Tecnologias utilizadas
   - Python
   - Pandas
   - Google Colab
