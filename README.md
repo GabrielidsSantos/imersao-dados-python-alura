@@ -1,4 +1,5 @@
 Imersão de Dados com Python - Alura 2026
+
 -> Notebook desenvolvido durante a imersão de Dados com Python da Alura 
 
 Conteúdos estudados
