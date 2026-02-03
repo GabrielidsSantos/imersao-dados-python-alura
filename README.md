@@ -11,9 +11,9 @@ Concluídos
 - Renomeação e entendimento de colunas
 - Análise inicial de salários na área de dados
 - Limpeza e tratamento de dados
+- Criação de gráficos
 
 Em andamento 
-- Criação de gráficos
 - Análises mais aprofundadas
 - Criação de dashboard interativo
 
