@@ -4,14 +4,14 @@ Projeto desenvolvido durante meus estudos de análise de dados com python.
 
 -> O objetivo proposto durante a Imersão Alura foi explorar um dataset da área de tecnologia, realizar o tratamento dos dados e gerar visualizações para extrair insights
 
-📌 O que foi feito
+## 📌 O que foi feito
 - Leitura e exploração do dataset
 - Limpeza e tratamento de dados
 - Análise de salários na área de dados
 - Criação de gráficos e visualizações 
 - Construção de Dashboard interativo
   
-🎯 Tecnologias utilizadas
+## 🎯 Tecnologias utilizadas
   - Python
   - Pandas
   - Seaborn
@@ -19,7 +19,7 @@ Projeto desenvolvido durante meus estudos de análise de dados com python.
   - Júpiter Notebook / Google Colab
   - Visualização de dados
 
-🧠 Aprendizados
+## 🧠 Aprendizados
 
 durante a realização do projeto aprendi conceitos importantes como:
 - manipulação de dados
