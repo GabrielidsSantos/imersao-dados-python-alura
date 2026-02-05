@@ -12,8 +12,6 @@ Concluídos
 - Análise inicial de salários na área de dados
 - Limpeza e tratamento de dados
 - Criação de gráficos
-
-Em andamento 
 - Análises mais aprofundadas
 - Criação de dashboard interativo
 
