@@ -14,7 +14,10 @@ Projeto desenvolvido durante meus estudos de análise de dados com python.
 🎯 Tecnologias utilizadas
   - Python
   - Pandas
+  - Seaborn
+  - Matplotlib
   - Júpiter Notebook / Google Colab
+  - Visualização de dados
 
 🧠 Aprendizados
 
