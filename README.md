@@ -17,6 +17,7 @@ Projeto desenvolvido durante meus estudos de análise de dados com python.
   - Júpiter Notebook / Google Colab
 
 🧠 Aprendizados
+
 durante a realização do projeto aprendi conceitos importantes como:
 - manipulação de dados
 - análise exploratória
