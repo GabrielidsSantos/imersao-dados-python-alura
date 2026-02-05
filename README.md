@@ -1,4 +1,4 @@
-📊 Análise de Dados com Python - Imersão Alura
+# 📊 Análise de Dados com Python - Imersão Alura
 
 Projeto desenvolvido durante meus estudos de análise de dados com python.
 
